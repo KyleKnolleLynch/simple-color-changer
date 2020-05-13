@@ -1,4 +1,4 @@
-const colors = ['lime', 'tomato', 'rgb(133,122,200)', '#b00080'];
+const colors = ['lime', 'tomato', 'rebeccapurple', 'skyblue', 'darkblue', 'goldenrod', 'plum'];
 const btn = document.querySelector('.btn-hero');
 const color = document.querySelector('.color');
 
